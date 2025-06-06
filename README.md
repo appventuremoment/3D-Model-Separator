@@ -1,0 +1,2 @@
+# 3D Model Seperator
+Simple script to separate 3D models in `.obj` format that are grouped together in a single file into mulitiple files. Assumes that each object is grouped using "g NAME" accordingly.
